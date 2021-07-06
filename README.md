@@ -4,5 +4,4 @@ Eu sou Flávio Fiori. Trabalho com desenvolvimento front-end desde 2016. Atualme
 
 Meus hobbies e divertimentos são: cachorros, assistir futebol, comédias e séries. Quer conheçer mais sobre mim?
 
-[![Portfólio Badge](https://img.shields.io/badge/Portf%C3%B3lio-https%3A%2F%2Fcurriculum--flaviofiori.vercel.app-red)](https://curriculum-flaviofiori.vercel.app)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flavio-fiori)](https://www.linkedin.com/in/flavio-fiori)
