@@ -4,7 +4,9 @@ Eu sou Flávio Fiori. Trabalho com desenvolvimento front-end desde 2016. Atualme
 
 Minha formação academica é Gestão de TI pela Faculdade de Tecnologia Dom Amaury Castanho da cidade de Itu. Atualmente estudo React no curso [Ignite](https://rocketseat.com.br/ignite) da rocketseat. Esse curso me desenvolveu com a tecnologia por meio de conceitos e ferramentas, exemplo: Context API, Axios, Next.js, performace de aplicações e testes de unidade. #atingindoProximoNivel
 
-Falando resumidamente sobre meus gostos e hobbies. Adoro cachorros, sou antenado em futebol (são paulino de coração), e amo assistir comédias e séries. 
+Falando resumidamente sobre meus gostos e hobbies. Adoro cachorros, sou antenado em futebol (são paulino de coração), e amo assistir comédias e séries.
+
+Desenvolvi recentemente em parceria com [GetulioMR](https://github.com/GetulioMR) o projeto [Vacina Sampa](https://vacinasampa.com) para ajudar de alguma forma as pessoas na pandemia.
 
 Quer conheçer mais sobre mim?
 
