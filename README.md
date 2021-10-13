@@ -1,6 +1,6 @@
 # Olá pessoal, tudo bem? 😁
 
-Eu sou Flávio Fiori. Trabalho com desenvolvimento front-end desde 2016. Atualmente sou consultor na empresa [Jump Label Solutions](https://www.jumplabel.com.br) alocado no cliente [Sem Parar](https://www.semparar.com.br). Lá atuo em uma equipe multidisciplinar ágil (SCRUM) e as principais tecnologias utilizadas são: HTML, CSS, Javascript e React.
+Eu sou Flávio Fiori. Trabalho com desenvolvimento front-end desde 2016. Atualmente sou desenvolvedor na empresa [Sorte Online](https://www.sorteonline.com.br/quem-somos). O projeto/cenário basicamente é a reconstração do site. As principais tecnologias utilizadas são: React/NextJS, HTML, CSS, Javascript.
 
 Minha formação academica é Gestão de TI pela Faculdade de Tecnologia Dom Amaury Castanho da cidade de Itu. Atualmente estudo React no curso [Ignite](https://rocketseat.com.br/ignite) da rocketseat. Esse curso me desenvolveu com a tecnologia por meio de conceitos e ferramentas, exemplo: Context API, Axios, Next.js, performace de aplicações e testes de unidade. #atingindoProximoNivel
 
