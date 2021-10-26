@@ -1,13 +1,12 @@
-# Olá pessoal, tudo bem? 😁
+# Olá pessoal, como vocês estão? :grin:
 
-Eu sou Flávio Fiori. Trabalho com desenvolvimento front-end desde 2016. Atualmente sou desenvolvedor na empresa [Sorte Online](https://www.sorteonline.com.br/quem-somos). O projeto/cenário basicamente é a reconstração do site. As principais tecnologias utilizadas são: React/NextJS, HTML, CSS, Javascript.
+- :office: Atualmente sou desenvoledor Front-End na empresa [Sorte Online](https://www.sorteonline.com.br/quem-somos).
+- :computer: Trabalho com front-end desde 2016.
+- :books: Sou aluno do Ignite [Rockeseat](https://www.rocketseat.com.br) e lá estudo ReactJS.
+- :man_student: Me formei em Gestão de Tecnologia da Informação na FATEC Dom Amaury Castanho - Itu/SP.
 
-Minha formação academica é Gestão de TI pela Faculdade de Tecnologia Dom Amaury Castanho da cidade de Itu. Atualmente estudo React no curso [Ignite](https://rocketseat.com.br/ignite) da rocketseat. Esse curso me desenvolveu com a tecnologia por meio de conceitos e ferramentas, exemplo: Context API, Axios, Next.js, performace de aplicações e testes de unidade. #atingindoProximoNivel
+[![Flávio Fiori Github Stats](https://github-readme-stats.vercel.app/api?username=flaviofiori&theme=dark&show_icons=true)](https://github.com/flaviofiori)
 
-Falando resumidamente sobre meus gostos e hobbies. Adoro cachorros, sou antenado em futebol (são paulino de coração), e amo assistir comédias e séries.
+## Quer conheçer mais sobre mim?
 
-Desenvolvi recentemente em parceria com [GetulioMR](https://github.com/GetulioMR) o projeto [Vacina Sampa](https://vacinasampa.com) para ajudar de alguma forma as pessoas na pandemia.
-
-Quer conheçer mais sobre mim?
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flavio-fiori)](https://www.linkedin.com/in/flavio-fiori)
+[![Flávio Fiori Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flavio-fiori)](https://www.linkedin.com/in/flavio-fiori)
